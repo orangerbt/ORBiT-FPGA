@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "spi_0_MOSI",
+					"strict" : false
+				},
+				{
+					"name" : "spi_0_SCLK",
+					"strict" : false
+				},
+				{
+					"name" : "spi_0_SS_n",
+					"strict" : false
+				},
+				{
+					"name" : "uart_0_txd",
+					"strict" : false
+				},
+				{
+					"name" : "i2c_0_scl_pad_io",
+					"strict" : false
+				},
+				{
+					"name" : "i2c_0_sda_pad_io",
+					"strict" : false
+				},
+				{
+					"name" : "clk_clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset_reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "spi_0_MISO",
+					"strict" : false
+				},
+				{
+					"name" : "uart_0_rxd",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
